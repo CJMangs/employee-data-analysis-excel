@@ -59,7 +59,7 @@ An interactive dashboard was created to analyze employee salary distribution, de
 
 ### 📁 Files
 
-* Employee Salary Dashboard.xlsx
+* employee-data-analysis-excel.xlsx
 
 ---
 
