@@ -59,8 +59,7 @@ An interactive dashboard was created to analyze employee salary distribution, de
 
 ### 📁 Files
 
-* employee-data-analysis-excel.xlsx
-
+- [Download Excel File](employee-data-analysis-excel.xlsx)
 ---
 
 ### 🚀 Skills Demonstrated
