@@ -46,14 +46,14 @@ An interactive dashboard was created to analyze employee salary distribution, de
 ### 📷 Project Screenshots
 
 #### Dashboard
-![Dashboard](Dashboard 1.png)
+![Dashboard](Dashboard.png)
 
 #### Dataset
 
 ![Dataset](Dataset.png)
 #### Formulas
 
-![Formulas](Formula (1).png)
+![Formulas](Formulas.png)
 
 ---
 
