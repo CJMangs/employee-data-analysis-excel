@@ -50,11 +50,13 @@ Dashboard1.png
 
 #### Dataset
 
-![Dataset](Dataset.png)
+Dataset.png
+Dataset (Analysis).png
 
 #### Formulas
 
-![Formulas](formulas (1).png)
+Formula (1).png
+Formula (2).png
 
 ---
 
