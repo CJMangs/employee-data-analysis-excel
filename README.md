@@ -51,12 +51,10 @@ Dashboard1.png
 #### Dataset
 
 Dataset.png
-Dataset (Analysis).png
 
 #### Formulas
 
 Formula (1).png
-Formula (2).png
 
 ---
 
